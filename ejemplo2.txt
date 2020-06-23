@@ -1,0 +1,19 @@
+efectivo, 77543
+cuentas por cobrar, 28790
+suministros, 8650
+renta pagada por anticipado, 21000
+terreno, 120800
+maquinaria y equipo, 76000
+depreciacion acumulada, 15200
+cuentas por pagar, 13450
+ingresos diferidos, 31820
+documentos por pagar, 48000
+capital social, 180000
+resultados acumulados, 31340
+ingresos por servicios, 208214
+gastos por renta, 63000
+gastos por depreciacion, 7600
+gastos por sueldos, 108800
+gastos por suministros, 15925
+ingresos por intereses, 2100
+gastos por impuestos, 2016

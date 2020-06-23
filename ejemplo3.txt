@@ -1,0 +1,22 @@
+efectivo, 5600
+documentos por cobrar, 1400
+cuentas por cobrar, 11500
+inventarios, 9000
+renta pagada por anticipado, 5000
+suministros, 3000
+terreno, 30000
+edificio, 90000
+cuentas por pagar, 9140
+capital social, 78000
+ingresos por renta, 130000
+resultados acumulados, 11000
+documentos por pagar, 1760
+cuentas por cobrar, 11500
+costo de ventas, 84000
+prestamos bancarios, 14000
+ingresos por intereses, 5100
+gastos por renta, 10600
+gastos por servicios, 14600
+ingresos diferidos, 12600
+gastos por impuestos, 5800
+sueldos por pagar, 8900
